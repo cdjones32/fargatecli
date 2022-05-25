@@ -59,6 +59,7 @@ var validRegions = []string{
 	"ap-northeast-1",
 	"ap-northheast-2",
 	"ap-south-1",
+	"af-south-1",
 }
 
 var (
